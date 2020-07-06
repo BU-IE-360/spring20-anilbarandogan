@@ -4,4 +4,4 @@
 [Here](files/example_homework_0.html) is my 5 interesting examples. 
 
 ## July 7
-[Project Report] (https://bu-ie-360.github.io/spring20-anilbarandogan/files/project-report.html)
+[Project Report] (https://bu-ie-360.github.io/spring20-anilbarandogan/files/Project-Report.html)
